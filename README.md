@@ -15,6 +15,8 @@ We regularly add new issues, so there may be fresh opportunities to contribute!
 
 If you're interested in an issue, check the comments and assignees to ensure no one else is working on it. Then, comment on the issue to let us know you'd like to take it on.
 
+When you begin working on an issue, please assign it to yourself and move it to the in progress state. Once you're ready for feedback, transition the issue to the in review state. Additionally, add either the GSOC or Outreachy label, depending on which mentoring program you're participating in.
+
 ## Contribution guidelines
 
 Before starting, please review our contribution guidelines:
